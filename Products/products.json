@@ -1,0 +1,23 @@
+[
+  {
+    "token": "3704a348-a14d-444e-a96d-2d0d8a8f5e96",
+    "nom": "ProductUpdate",
+    "description": "Descriptionfzzmflpo",
+    "prix": "20",
+    "stock": "56",
+    "reference": "EUEYQ",
+    "created_at": "",
+    "update_at": "",
+    "updated_at": "31/03/2022, 13:07:21"
+  },
+  {
+    "nom": "insert",
+    "description": "descr",
+    "token": "0de84afc-3211-4c4c-a39f-6541ab569e73",
+    "prix": "876765",
+    "stock": "98",
+    "reference": "TESTQ",
+    "created_at": "31/03/2022, 13:04:12",
+    "updated_at": "31/03/2022, 13:04:12"
+  }
+]
